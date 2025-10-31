@@ -45,6 +45,5 @@ Email: Your Email Address (Add your email address here)
 📊 GitHub Stats
 (Optional: Add a GitHub stats section using tools like GitHub Readme Stats)
 
-Thank you for visiting my GitHub profile! Let’s innovate, secure, and build the future together. 🚀🔒
 
-“The only way to do great work is to love what you do.” – Steve Jobs
+
