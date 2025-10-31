@@ -1,43 +1,53 @@
-# 🔐 Cybersecurity Professional | Threat Researcher & Security Engineer
+# 👋 Daniela | Junior Cybersecurity Enthusiast
 
-*"Understanding systems to protect them"*
+## 🎯 About Me
 
-## 🛡️ About Me
+Hello! I'm Daniela, a passionate cybersecurity student/enthusiast beginning my journey in the security field. I'm focused on developing my skills in vulnerability assessment, security fundamentals, and threat analysis. Always eager to learn and contribute to security projects.
 
-Cybersecurity specialist with focused expertise in threat analysis, vulnerability research, and defensive security operations. Passionate about identifying security gaps, developing robust protection mechanisms, and contributing to the security community through research and knowledge sharing.
+## 🛠️ Technical Skills
 
-## 🔬 Core Competencies
+### **Security Tools**
+- **Network Scanning**: Nmap, Wireshark
+- **Vulnerability Assessment**: Nessus, OpenVAS
+- **Web Security**: Burp Suite, OWASP ZAP
+- **Penetration Testing**: Metasploit, Kali Linux
 
-### **Offensive Security**
-- Penetration Testing & Red Teaming
-- Vulnerability Assessment & Management
-- Exploit Development & Reverse Engineering
-- Web Application Security Testing
-- Network Perimeter Testing
+### **Programming & Scripting**
+- **Python** - Security scripts and automation
+- **Bash** - Linux environment and basic scripting
+- **PowerShell** - Windows administration and tasks
+- **SQL** - Database queries and basics
 
-### **Defensive Security**
-- Security Operations Center (SOC) Analysis
-- Threat Hunting & Intelligence
-- Digital Forensics & Incident Response (DFIR)
-- SIEM Implementation & Monitoring
-- Endpoint Detection & Response (EDR)
+### **Platforms & OS**
+- **Linux**: Kali Linux, Ubuntu
+- **Windows**: Windows 10/11, Server basics
+- **Virtualization**: VMware, VirtualBox
 
-### **Technical Proficiencies**
-```yaml
-Programming: 
-  - Python | PowerShell | Bash | SQL
-  - C/C++ | Assembly (x86/x64)
+## 📚 Learning Path
 
-Security Tools:
-  - Nmap | Burp Suite | Metasploit | Wireshark
-  - IDA Pro | Ghidra | OllyDbg | Volatility
-  - Splunk | ELK Stack | YARA | Suricata
+### **Currently Studying**
+- Network security fundamentals
+- OWASP Top 10 vulnerabilities
+- Basic digital forensics
+- Security operations center (SOC) basics
 
-Platforms:
-  - Linux Security Hardening
-  - Windows Enterprise Environments
-  - Cloud Security (AWS/Azure)
-  - Docker & Container Security
+### **Certifications in Progress**
+- CompTIA Security+
+- TryHackMe learning paths
+- Hack The Box challenges
+
+## 💼 Projects
+
+### **Network Vulnerability Scanner**
+Basic Python script that scans for open ports and services
+```python
+# Simple port scanner implementation
+import socket
+from threading import Thread
+
+def scan_port(target, port):
+    # Scanner logic here
+    pass
 
 
 
